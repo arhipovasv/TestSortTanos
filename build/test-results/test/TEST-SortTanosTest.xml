@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="SortTanosTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-22T19:13:31" hostname="DESKTOP-7LNKUIA" time="0.13">
+  <properties/>
+  <testcase name="tanosSort()" classname="SortTanosTest" time="0.13"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
